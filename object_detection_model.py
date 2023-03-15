@@ -159,11 +159,3 @@ class SSD_Object_Detection():
         self.cSource.release()
         cv.destroyWindow(self.ScreenName) 
     
-    
-
-
-
-
-    
-
-    
